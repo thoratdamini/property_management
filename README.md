@@ -327,3 +327,4 @@ DAMG 6210 - Data Management and Database Design
 Northeastern University
 
 Special thanks to Professor Montrond for his exceptional guidance on database architecture, normalization principles, and real-world application design throughout this project.
+# propertymanagement

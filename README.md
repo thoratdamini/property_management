@@ -14,7 +14,6 @@
 - [Security Features](#-security-features)
 - [Installation & Setup](#-installation--setup)
 - [Usage Examples](#-usage-examples)
-- [Team](#-team)
 - [Acknowledgments](#-acknowledgments)
 
 ---
